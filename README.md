@@ -58,12 +58,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Training the Model
-To train the model, run the provided Jupyter notebook (`PPC.ipynb`):
+### Running the Google Colab Notebook
+To run the provided Google Colab notebook (`PPC.ipynb`), simply click the link below to open it in Colab:
 
-```bash
-jupyter notebook PPC.ipynb
-```
+[Open in Google Colab](https://colab.research.google.com/drive/your_notebook_link_here)
 
 The notebook contains all the necessary code to preprocess the data, train the models, and evaluate their performance.
 
